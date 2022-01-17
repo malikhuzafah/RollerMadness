@@ -1,0 +1,44 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   23.21.13.8857
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.521 seconds
+Platform assembly: D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects\Roller Madness\Builds\Windows\Roller Madness_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.704300 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2da0 -> priority: 1 
+  Thread -> id: 1c90 -> priority: 1 
+  Thread -> id: 2768 -> priority: 1 
+  Thread -> id: 25e4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.123100 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 525.
+Total: 0.388200 ms (FindLiveObjects: 0.040600 ms CreateObjectMapping: 0.023100 ms MarkObjects: 0.318000 ms  DeleteObjects: 0.005600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.734800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 638.
+Total: 0.889600 ms (FindLiveObjects: 0.088800 ms CreateObjectMapping: 0.078000 ms MarkObjects: 0.708500 ms  DeleteObjects: 0.012700 ms)
+
